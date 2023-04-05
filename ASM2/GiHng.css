@@ -1,0 +1,167 @@
+.cart-plus {
+  position: absolute;
+  top: 1684.68px;
+  left: 1795.53px;
+  background-color: var(--color-gray-200);
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.gi-hng-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 805px;
+  height: 1599px;
+}
+.tm-tnh,
+.tng-gi {
+  font-family: var(--font-inter);
+}
+.tng-gi {
+  position: absolute;
+  top: 800px;
+  left: 62px;
+  line-height: 50px;
+}
+.tm-tnh {
+  top: 636px;
+  left: 61px;
+}
+.ph-vn-chuyn,
+.thanh-ton,
+.tm-tnh {
+  position: absolute;
+  line-height: 50px;
+}
+.ph-vn-chuyn {
+  top: 718px;
+  left: 62px;
+  font-family: var(--font-inter);
+}
+.thanh-ton {
+  top: 135px;
+  left: 268px;
+  font-size: var(--font-size-29xl);
+}
+.vector-icon12 {
+  position: absolute;
+  height: 3.88%;
+  width: 8.38%;
+  top: 3.38%;
+  right: 85.38%;
+  bottom: 92.75%;
+  left: 6.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.n-gi,
+.s-lng,
+.sn-phm1,
+.son-kem-3ce2,
+.tng-gi1 {
+  position: absolute;
+  top: 244px;
+  left: 26px;
+  line-height: 50px;
+}
+.n-gi,
+.s-lng,
+.son-kem-3ce2,
+.tng-gi1 {
+  left: 417px;
+}
+.n-gi,
+.s-lng,
+.son-kem-3ce2 {
+  left: 550px;
+}
+.n-gi,
+.son-kem-3ce2 {
+  left: 694px;
+}
+.son-kem-3ce2 {
+  top: 364px;
+  left: 151px;
+  font-size: 30px;
+  display: inline-block;
+  width: 273px;
+}
+.image-2-icon1 {
+  position: absolute;
+  top: 306px;
+  left: 0;
+  width: 174px;
+  height: 217px;
+  object-fit: cover;
+}
+.div1,
+.div2,
+.div3,
+.div4,
+.k1,
+.k2 {
+  position: absolute;
+  top: 339px;
+  left: 449px;
+  line-height: 50px;
+}
+.div1,
+.div2,
+.div3,
+.div4,
+.k2 {
+  top: 636px;
+  left: 550px;
+}
+.div2,
+.div3,
+.div4,
+.k2 {
+  top: 704px;
+  left: 557px;
+}
+.div3,
+.div4,
+.k2 {
+  top: 800px;
+  left: 543px;
+}
+.div4,
+.k2 {
+  top: 339px;
+  left: 593px;
+}
+.k2 {
+  left: 711px;
+}
+.gi-hng-item {
+  position: absolute;
+  top: 873px;
+  left: 242px;
+  border-radius: var(--br-3xs);
+  background-color: #e46129;
+  width: 223px;
+  height: 70px;
+}
+.thanh-ton1 {
+  position: absolute;
+  top: 883px;
+  left: 284px;
+  line-height: 50px;
+  font-family: var(--font-inter);
+}
+.gi-hng {
+  position: relative;
+  width: 800px;
+  height: 1599px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-sans-serif-collection);
+}

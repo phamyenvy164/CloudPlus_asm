@@ -1,0 +1,116 @@
+.group-inner,
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group-item {
+  border-radius: 30px;
+  background-color: var(--color-mistyrose);
+  box-shadow: 4px 4px 20px #675c5c;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  box-sizing: border-box;
+  width: 700px;
+  height: 500px;
+}
+.group-inner {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke);
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25) inset,
+    -4px -4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 618px;
+  height: 90px;
+}
+.password {
+  position: absolute;
+  top: 30px;
+  left: 38px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 194px;
+  left: 45px;
+  width: 618px;
+  height: 90px;
+}
+.username {
+  position: absolute;
+  top: 30px;
+  left: 42px;
+}
+.group-child1,
+.group-div {
+  position: absolute;
+  top: 47px;
+  left: 41px;
+  width: 618px;
+  height: 90px;
+}
+.group-child1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--xa-lnh);
+  filter: blur(4px);
+  backdrop-filter: blur(4px);
+  width: 350px;
+}
+.login {
+  position: absolute;
+  top: 30px;
+  left: 138px;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 341px;
+  left: 179px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 350px;
+  height: 90px;
+  cursor: pointer;
+}
+.instance-item {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--xa-lnh);
+  filter: blur(4px);
+  backdrop-filter: blur(4px);
+}
+.login1 {
+  position: absolute;
+  top: 33.33%;
+  left: 39.43%;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 341px;
+  left: 179px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 350px;
+  height: 90px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 700px;
+  height: 500px;
+}
+.log-in {
+  position: relative;
+  width: 700px;
+  height: 500px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-inter);
+}
